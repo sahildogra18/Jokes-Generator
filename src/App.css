@@ -1,0 +1,50 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(92, 92, 255);
+  text-align: center;
+  font-size: 2rem;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  margin: 10px 0 20px;
+  font-size: 1.5rem;
+  margin-top: 150px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.gg{
+  border: 2px solid black;
+  height: 500px;
+  padding: 20px;
+  background-color: tan;
+  border-radius: 10px;
+}
